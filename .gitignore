@@ -1,0 +1,12 @@
+# Ignore all executable binaries compiled on Windows
+*.exe
+
+# Ignore debug symbols and object files
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Ignore the build directories if you use them
+build/
+.vscode/
